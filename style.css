@@ -1,0 +1,30 @@
+ 
+ .img{
+    border-radius: 50%;
+   
+ }
+
+.one,.two,.three,.four,.five{
+    color: grey;
+    margin: 10px;
+    height: 50px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+
+
+}
+.two{
+    height: 50px;
+}
+.one:hover,.two:hover,.three:hover,.four:hover,.five:hover{
+    color: black;
+    background-color: rgb(9, 237, 9);
+    cursor: pointer;
+
+}
+.whole{
+    margin: 60px;
+    padding:50px;
+    background-color:rgb(1, 17, 1);
+}
